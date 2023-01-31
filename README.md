@@ -13,6 +13,5 @@ INPUT:
 NOTE: The code can be overidden by going to -
         Windows >> Drivers >> etc >> hostsfile(folder)
         
-        *or*
         
         C:\Windows\System32\drivers\etc\hosts
