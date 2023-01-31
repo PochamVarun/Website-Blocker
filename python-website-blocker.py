@@ -5,15 +5,15 @@ from tkinter import *
 root = Tk()
 root.geometry('500x300')
 root.resizable(0,0)
-root.title("TechVidvan - Website Blocker")
+root.title("Website Blocker")
 
 #heading
 Label(root, text = 'WEBSITE BLOCKER' , font = 'arial 20 bold').pack()
-Label(root,text = 'TechVidvan' , font = 'arial 20 bold').pack(side = BOTTOM)
+Label(root,text = 'VPOC' , font = 'arial 20 bold').pack(side = BOTTOM)
 
 #path of our host file ang ip adsdress 
 host_path = 'C:\Windows\System32\drivers\etc\hosts'
-ip_address = '127.0.0.1'
+ip_address = '127.0.0.1' 
 
 #ENTER WEBSITE
 Label(root, text= 'Enter Website :', font = 'arial 13 bold').place(x=5,y=60)
