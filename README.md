@@ -1,5 +1,5 @@
 # Website-Blocker
-This is a Website blocker that blocks websites using the respective URL.  #ONLY WINDOWS
+This is a Website blocker that blocks websites using the respective URL.  #ONLY WINDOWS#
 
 
 P.S: The loged in User should be the Adminstrator or should have access to admin rights.
