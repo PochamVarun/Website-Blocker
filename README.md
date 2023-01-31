@@ -10,8 +10,5 @@ INPUT:
   
 
 
-NOTE: 
-  
-  
-  1)the code can be overidden by going to -
+NOTE: The code can be overidden by going to -
         Windows >> Drivers >> etc >> hostsfile(folder)
